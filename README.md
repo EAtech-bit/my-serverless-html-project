@@ -18,5 +18,5 @@ This project deploys a static HTML page using AWS Lambda and API Gateway. The La
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Satishmahakalkar/my-serverless-html-project
    cd html-service
